@@ -1,9 +1,13 @@
-# Fresh Chrome Extension boilerplate (Manifest V3)
+# Embed Video Instead (EVI)
 
 ## Purpose
 
-This extension can be used as a boilerplate for creating new extensions for Chrome based browsers, like Google Chrome.
+Embed video instead of normal video on youtube, for... reasons.
 
-## What it does
+It makes the videos a bit weird, there is some funky stuff, but it gets the job done.
 
-When installed it will write something to DevTools console (F12) at the three most common events: before page load, after page load and when the user clicks the extension button on browser top bar.
+But! This will probably stop working eventually
+
+## Special thanks
+
+[This very cool chrome extension template](https://github.com/llagerlof/fresh-chrome-extension)
