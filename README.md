@@ -5,8 +5,6 @@ Embed video instead of normal video on youtube, this will bypass anti-adblockers
 
 This extension only works if you have been anti-adblocked. So if uBlockOrigin is not updated this script will kick in, substituting the "blocked" player into the embed player, but the best option is to still constantly update your uBlockOrigin Quick Filter list, if you don't know how --> [Look here](https://www.reddit.com/r/uBlockOrigin/)
 
-Also, if the video is configured to not work on embed, it won't play. Very few videos from my experience have this but if you're facing this problem for the time being there is no way of adding exceptions, so you will have to uninstall the extension or watch the video in another browser/anon tab
-
 ## How to install
 1. Clone this repo
 2. Go to `chrome://extensions/` (or `brave://extensions/` if you're using brave, or `edge:` or `opera:` you get the idea go to the extensions page)
