@@ -3,7 +3,7 @@
 ## Purpose
 Embed video instead of normal video on youtube, for... reasons. It makes the videos a bit weird, there is some funky stuff, but it gets the job done.
 
-But! Just know this will probably stop working eventually
+This extension only works if you have been anti-adblocked. So if uBlockOrigin is not updated this script will kick in, substituting the "blocked" player into the embed player, but the best option is to still constantly update your uBlockOrigin Quick Filter list, if you don't know how --> [Look here](https://www.reddit.com/r/uBlockOrigin/)
 
 Also, if the video is configured to not work on embed, it won't play. Very few videos from my experience have this but if you're facing this problem for the time being there is no way of adding exceptions, so you will have to uninstall the extension or watch the video in another browser/anon tab
 
@@ -21,6 +21,8 @@ Also, if the video is configured to not work on embed, it won't play. Very few v
 
 ## It didn't work
 Youtube is a complex website, please try reloading and/or clearing the cache (usually Ctrl + Shift + R works). If it is still bugged, you can open an issue, but I can't guarantee I'll fix it
+
+If the video cannot be embeded, it wont work. Very few videos from my experience have this but if you're facing this problem for the time being there is no way of adding exceptions, so you will have to uninstall the extension or watch the video in another browser/anon tab
 
 If you want to contribute, please do! I'll be happy to review and accept your PRs
 
