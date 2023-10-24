@@ -24,3 +24,11 @@ But! This will probably stop working eventually
 ## Mozilla version? Safari?
 
 By any means, you can fork this and do the necessary changes to make it work on other browsers, I just don't have the time to do it myself.
+
+## It didn't work
+
+Youtube is a complex website, please try reloading and/or clearing the cache (usually Ctrl + Shift + R works)
+
+If it is still bugged, you can open an issue, but I can't guarantee I'll fix it
+
+If you want to contribute, please do! I'll be happy to review and accept your PRs

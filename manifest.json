@@ -8,12 +8,12 @@
     {
       "run_at": "document_idle",
       "js": ["after.js"],
-      "matches": ["https://www.youtube.com/*"]
+      "matches": ["https://www.youtube.com/watch?v=*"]
     }
   ],
   "background": {
     "service_worker": "background.js"
   },
-  "permissions": ["tabs", "scripting"],
+  "permissions": ["tabs", "scripting", "webNavigation"],
   "host_permissions": ["https://*/*", "http://*/*"]
 }
