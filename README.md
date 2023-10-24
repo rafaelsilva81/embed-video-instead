@@ -13,7 +13,8 @@ Also, if the video is configured to not work on embed, it won't play. Very few v
 3. Enable developer mode (if you don't know how to do this, you can search it up)
 4. Click on "Load unpacked"
 5. Select the folder where you cloned this repo
-6. Go to youtube and enjoy
+6. **RESTART BROWSER**
+7. Go to youtube and enjoy
 
 ## Special thanks
 [This very cool chrome extension template](https://github.com/llagerlof/fresh-chrome-extension)
