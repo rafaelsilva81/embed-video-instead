@@ -2,7 +2,7 @@
   "name": "Embed Video Instead",
   "description": "Embed video instead of normal video =)",
   "homepage_url": "https://github.com/rafaelsilva81/embed-video-instead",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "manifest_version": 3,
   "content_scripts": [
     {
