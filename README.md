@@ -3,7 +3,7 @@
 ## Purpose
 Embed video instead of normal video on youtube, this will bypass anti-adblockers. It makes the videos a bit weird, there is some funky stuff, but it gets the job done.
 
-This extension only works if you have been anti-adblocked. So if uBlockOrigin is not updated this script will kick in, substituting the "blocked" player into the embed player, but the best option is to still constantly update your uBlockOrigin Quick Filter list, if you don't know how --> [Look here](https://www.reddit.com/r/uBlockOrigin/)
+This extension only works if you have been anti-adblocked. So if uBlockOrigin is not updated this script will kick in, substituting the "blocked" player into the embed player, but the best option is to still update your uBlockOrigin Quick Filter list if a new script is available, if you don't know how (or if you're not using uBlockOrigin for some reason) --> [Look here](https://www.reddit.com/r/uBlockOrigin/)
 
 ## How to install
 1. Clone this repo
