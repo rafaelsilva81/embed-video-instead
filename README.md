@@ -1,7 +1,7 @@
 # Embed Video Instead (EVI)
 
 ## Purpose
-Embed video instead of normal video on youtube, for... reasons. It makes the videos a bit weird, there is some funky stuff, but it gets the job done.
+Embed video instead of normal video on youtube, this will bypass anti-adblockers. It makes the videos a bit weird, there is some funky stuff, but it gets the job done.
 
 This extension only works if you have been anti-adblocked. So if uBlockOrigin is not updated this script will kick in, substituting the "blocked" player into the embed player, but the best option is to still constantly update your uBlockOrigin Quick Filter list, if you don't know how --> [Look here](https://www.reddit.com/r/uBlockOrigin/)
 
